@@ -7,6 +7,7 @@ public class ReverceString
 
 	public static void main(String[] args) 
 	{
+//create object
       Scanner s=new Scanner(System.in);
       
       System.out.println("ENTER STRING INPUT VALUE");
